@@ -35,4 +35,6 @@ ax.annotate('', xy=(pd.Timestamp('2020-04-26'), 156), xytext=(pd.Timestamp('2022
 ax.annotate('', xy=(pd.Timestamp('2024-03-10'), 161), xytext=(pd.Timestamp('2026-03-05'), 161), arrowprops=dict(arrowstyle='-', color='black'))
 
 ax.legend(loc='upper left', frameon=False, prop={'family': 'Calibri', 'weight': 'bold'})
+
+plt.savefig('ukfuel.png', bbox_inches='tight')
 plt.show()
