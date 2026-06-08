@@ -11,3 +11,7 @@
 ## 2026 Week 22 - Arsenal 2025-26 Season Player Performance
 ![Arsenal](arsenal.png)
 [View code](arsenal.py) | [Data source](MM2026%20W22%20Arsenal.csv)
+
+## 2026 Week 23 - Coachella Lineup
+![Coachella](coachella.png)
+[View code](coachella.py) | [Data source](MM2026%20W23%20Coachella.csv)
