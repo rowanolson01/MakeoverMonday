@@ -1,5 +1,9 @@
 # Makeover Monday Archive, Rowan Olson
 
+## 2026 Week 24 - Global Investors
+![Global Investors](globalinvestors.png)
+[View code](globalinvestors.py) | [Data source](MM2026%20W24%20Global%20Investors.csv)
+
 ## 2026 Week 23 - Coachella Lineup
 ![Coachella](coachella.png)
 [View code](coachella.py) | [Data source](MM2026%20W23%20Coachella.csv)
