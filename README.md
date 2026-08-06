@@ -1,5 +1,13 @@
 # Makeover Monday Archive, Rowan Olson
 
+## 2026 Week 31 - America Trade Balances
+![Data Centers](2026%20Week%2031%20America%20Trade%20Balances/tradebalances.png)
+[View code](2026%20Week%2031%20America%20Trade%20Balances/tradebalances.py) | [Data source](2026%20Week%2030%31%20America%20Trade%20Balances/MM2026%20W31%20America%20Trade%20Balances.csv)
+
+## 2026 Week 30 - Squirrels
+![Data Centers](2026%20Week%2030%20Squirrels/squirrels.png)
+[View code](2026%20Week%2030%20Squirrels/squirrels.py) | [Data source](2026%20Week%2030%20Squirrels/MM2026%20W30%20Squirrels.csv)
+
 ## 2026 Week 29 - Data Centers
 ![Data Centers](2026%20Week%2029%20Data%20Centers/datacenters.png)
 [View code](2026%20Week%2029%20Data%20Centers/datacenters.py) | [Data source](2026%20Week%2029%20Data%20Centers/MM2026%20W29%20Data%20Centers.csv)
