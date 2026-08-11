@@ -1,8 +1,12 @@
 # Makeover Monday Archive, Rowan Olson
 
+## 2026 Week 32 - Office Temps
+![Data Centers](2026%20Week%2032%20Office%20Temps/officetemps.png)
+[View code](2026%20Week%2032%20Office%20Temps/officetemps.py) | [Data source](2026%20Week%2032%20Office%20Temps/MM2026%20W32%20Office%20Temps.csv)
+
 ## 2026 Week 31 - America Trade Balances
 ![Data Centers](2026%20Week%2031%20America%20Trade%20Balances/tradebalances.png)
-[View code](2026%20Week%2031%20America%20Trade%20Balances/tradebalances.py) | [Data source](2026%20Week%2030%31%20America%20Trade%20Balances/MM2026%20W31%20America%20Trade%20Balances.csv)
+[View code](2026%20Week%2031%20America%20Trade%20Balances/tradebalances.py) | [Data source](2026%20Week%2031%20America%20Trade%20Balances/MM2026%20W31%20America%20Trade%20Balances.csv)
 
 ## 2026 Week 30 - Squirrels
 ![Data Centers](2026%20Week%2030%20Squirrels/squirrels.png)
