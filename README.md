@@ -1,5 +1,9 @@
 # Makeover Monday Archive, Rowan Olson
 
+## 2026 Week 33 - Sports Betting
+![Data Centers](2026%20Week%2033%20Sports%20Betting/sportsbetting.png)
+[View code](2026%20Week%2033%20Sports%20Betting/sportsbetting.py) | [Data source](2026%20Week%2033%20Sports%20Betting/MM2026%20W33%20Sports%20Betting.csv)
+
 ## 2026 Week 32 - Office Temps
 ![Data Centers](2026%20Week%2032%20Office%20Temps/officetemps.png)
 [View code](2026%20Week%2032%20Office%20Temps/officetemps.py) | [Data source](2026%20Week%2032%20Office%20Temps/MM2026%20W32%20Office%20Temps.csv)
