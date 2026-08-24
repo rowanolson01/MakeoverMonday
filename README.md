@@ -1,5 +1,9 @@
 # Makeover Monday Archive, Rowan Olson
 
+## 2026 Week 34 - GDP
+![GDP](2026%20Week%2034%20GDP/gdp.png)
+[View code](2026%20Week%2034%20GDP/gdp.py) | [Data source](2026%20Week%2034%20GDP/MM2026%20W34%20GDP.csv)
+
 ## 2026 Week 33 - Sports Betting
 ![Data Centers](2026%20Week%2033%20Sports%20Betting/sportsbetting.png)
 [View code](2026%20Week%2033%20Sports%20Betting/sportsbetting.py) | [Data source](2026%20Week%2033%20Sports%20Betting/MM2026%20W33%20Sports%20Betting.csv)
