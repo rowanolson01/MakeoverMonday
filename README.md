@@ -1,5 +1,9 @@
 # Makeover Monday Archive, Rowan Olson
 
+## 2026 Week 35 - Taylor Swift
+![Taylor Swift](2026%20Week%2035%20Taylor%20Swift/taylorswift.png)
+[View code](2026%20Week%2035%20Taylor%20Swift/taylorswift.py) | [Data source](2026%20Week%2035%20Taylor%20Swift/MM2026%20W35%20Taylor%20Swift.csv)
+
 ## 2026 Week 34 - GDP
 ![GDP](2026%20Week%2034%20GDP/gdp.png)
 [View code](2026%20Week%2034%20GDP/gdp.py) | [Data source](2026%20Week%2034%20GDP/MM2026%20W34%20GDP.csv)
