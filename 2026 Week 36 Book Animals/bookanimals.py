@@ -39,7 +39,8 @@ for animal in animals:
     ax.plot(smooth_x, smooth_y, color=COLORS[animal], linewidth=2.8, zorder=2, solid_capstyle='round')
     ax.scatter(x, y, s=70, color=COLORS[animal], zorder=3)
     dx, dy = LABEL_OFFSETS.get(animal, (10,0))
-    ax.annotate(LABELS[animal], xy=(2, y[-1]), xytext=(dx,dy), textcoords='offset points', fontsize=10.5, fontfamily=FONT, fontweight='bold', color=COLORS[animal], ha='left', va='center')
+    ax.annotate(LABELS[animal], xy=(2, y[-1]), xytext=(dx,dy), textcoords='offset points', fontsize=10.5, fontfamily=FONT, fontweight='bold', color=COLORS[animal], 
+        ha='left', va='center')
 
 ax.set_xlim(-0.08, 2.34)
 ax.set_ylim(0, 0.75)
@@ -47,7 +48,7 @@ ax.set_xticks(range(3))
 ax.set_xticklabels(ERAS, fontsize=11, fontfamily=FONT, fontweight='bold', color=TEXT)
 ax.set_yticks([0,0.25,0.5,0.75])
 ax.set_yticklabels(['0%','25%','50%','75%'], fontsize=10, fontfamily=FONT, color=MUTED)
-ax.set_ylabel('SHARE OF GENDERED CHARACTERS THAT ARE FEMALE', fontsize=10, fontfamily=FONT, fontweight='bold', color=MUTED, labelpad=16)
+ax.set_ylabel('SHARE OF GENDERED CHARACTERS THAT ARE FEMALE', fontsize=10, fontfamily=FONT, fontweight='bold', color=MUTED, labelpad=10)
 ax.grid(True, axis='y', color=GRID, linewidth=0.7, alpha=0.8, zorder=0)
 ax.tick_params(left=False, bottom=False)
 
@@ -58,6 +59,6 @@ fig.text(0.065, 0.914, 'AFTER 2000, FAMILIAR ANIMALS LAND ON VERY DIFFERENT SIDE
 fig.text(0.065, 0.878, 'GENDER REPRESENTATION ACROSS THREE PUBLISHING ERAS', fontsize=11.5, fontfamily=FONT, fontweight='bold', color='#24466B', ha='left')
 fig.text(0.035, 0.025, 'Source: MakeoverMonday 2026, Week 36 — Book Animals  |  Animal-era points require at least 5 gendered characters; animals shown have valid observations in all three eras  |  Rowan Olson · #MakeoverMonday', fontsize=8.3, fontfamily=FONT, color=MUTED, ha='left')
 
-fig.subplots_adjust(left=0.10, right=0.92, top=0.82, bottom=0.13)
+fig.subplots_adjust(left=0.065, right=0.965, top=0.82, bottom=0.13)
 plt.savefig(HERE / 'bookanimals.png', dpi=180, facecolor=BG)
 plt.show()
