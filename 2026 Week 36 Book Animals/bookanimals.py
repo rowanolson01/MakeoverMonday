@@ -42,7 +42,7 @@ for animal in animals:
     ax.annotate(LABELS[animal], xy=(2, y[-1]), xytext=(dx,dy), textcoords='offset points', fontsize=10.5, fontfamily=FONT, fontweight='bold', color=COLORS[animal], 
         ha='left', va='center')
 
-ax.set_xlim(-0.08, 2.34)
+ax.set_xlim(-0.08, 2.08)
 ax.set_ylim(0, 0.75)
 ax.set_xticks(range(3))
 ax.set_xticklabels(ERAS, fontsize=11, fontfamily=FONT, fontweight='bold', color=TEXT)
